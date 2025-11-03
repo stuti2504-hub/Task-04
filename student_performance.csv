@@ -1,0 +1,11 @@
+Gender,Parental Education,Test Preparation,Study Hours,Math Score,Reading Score,Writing Score
+Female,Bachelor,Completed,4,85,88,86
+Male,High School,None,2,65,70,68
+Female,Master,Completed,5,90,94,91
+Male,Bachelor,None,3,70,73,70
+Female,Some College,Completed,4,80,82,81
+Male,Master,None,2,60,65,64
+Female,High School,Completed,6,92,95,94
+Male,Some College,None,3,75,78,76
+Female,Bachelor,Completed,5,88,90,89
+Male,Master,None,2,68,72,71
